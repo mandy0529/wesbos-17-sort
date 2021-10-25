@@ -1,4 +1,4 @@
-const list = document.getElementById('bands');
+const lists = document.getElementById('bands');
 
 const bands = [
   'The Plot in You',
